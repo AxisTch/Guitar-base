@@ -60,7 +60,7 @@ Este repositorio contiene ejemplos y proyectos para aprender React desde cero.
 ## **🔧 Instalación**  
 1. Clona el repositorio:  
    ```bash
-   git clone [URL-del-repositorio]
+   git clone https://github.com/AxisTch/Guitar-base.git
    ```
 2. Instala las dependencias:  
    ```bash
